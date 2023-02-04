@@ -1,0 +1,5 @@
+# Postgres
+DB_USR='username'
+DB_PWD='password'
+DB_NAME='database name'
+DB_HOST='database url'
